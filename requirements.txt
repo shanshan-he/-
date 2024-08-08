@@ -1,0 +1,8 @@
+--index https://pypi.tuna.tsinghua.edu.cn/simple/
+Flask
+numpy==1.26.4
+pyaudio==0.2.14
+python_speech_features==0.6
+scikit_learn
+scipy
+webrtcvad==2.0.10
